@@ -53,8 +53,8 @@ const styles = {
     titleStyle: {
         fontSize: 18,
         paddingLeft: 15,
-        paddingTop: 15,
-        paddingBottom: 15,
+        paddingTop: 10,
+        paddingBottom: 10,
     },
 
     descriptionStyle: {
